@@ -8,9 +8,9 @@ There is also an excel file containing the links divided the same way, downloada
 
 ## Articles 
 
-| **Topic | Tag | Quality | Link** | 
+| **Topic** | **Tag** | **Quality** | **Link** | 
 | ------------- | ------------- | ------------- |  ------------- |
-| Blockchain e social scalability |  ------------- | ------------- |  ------------- |
+| Blockchain e social scalability |  ------------- | ------------- | ------------- |
 | Creare un nodo LN | ------------- | ------------- |  ------------- |
 | Incentivi nel mining |  ------------- | ------------- |  ------------- |
 | Zero Sum Property in Bitcoin | ------------- | ------------- |  ------------- |
@@ -64,3 +64,15 @@ There is also an excel file containing the links divided the same way, downloada
 | Ricerche su LN | ------------- | ------------- |  ------------- |
 | Statistiche su LN | ------------- | ------------- |  ------------- |
 | RGB Protocol | ------------- | ------------- |  ------------- |
+
+## Learning 
+
+| **Topic** | **Tag** | **Quality** | **Link** |
+| ------------- | ------------- | ------------- |  ------------- |
+| Blockchain e social scalability |  ------------- | ------------- | ------------- |
+
+## Trading 
+
+| **Topic** | **Tag** | **Quality** | **Link** |
+| ------------- | ------------- | ------------- |  ------------- |
+| Blockchain e social scalability |  ------------- | ------------- | ------------- |
