@@ -10,7 +10,7 @@ There is also an excel file containing the links divided the same way, downloada
 
 | **Topic** | **Tag** | **Quality** | **Link** | 
 | ------------- | ------------- | ------------- |  ------------- |
-| Blockchain e social scalability |  ------------- | ------------- | ------------- |
+| **Blockchain e social scalability |  ------------- | ------------- | ------------- |
 | Creare un nodo LN | ------------- | ------------- |  ------------- |
 | Incentivi nel mining |  ------------- | ------------- |  ------------- |
 | Zero Sum Property in Bitcoin | ------------- | ------------- |  ------------- |
