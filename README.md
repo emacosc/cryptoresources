@@ -8,20 +8,20 @@ There is also a downloadable excel file containing the links divided the same wa
 
 ## Articles 
 
-| **Topic** | **Tag** | **Quality** | **Link** | 
+| **Topic** | **Quality** | **Tag** | **Link** | 
 | ------------- | ------------- | ------------- |  ------------- |
 | Blockchain e social scalability	| *****	| Bitcoin - General	| http://unenumerated.blogspot.it/2017/02/money-blockchains-and-social-scalability.html
 | Creare un nodo LN	| ***	| Bitcoin - Technical	| https://medium.com/@stadicus/perfect-low-cost-️lightning️-node-4c2f42a4ff7b
 | Incentivi nel mining	| ****	| Bitcoin - General	| https://blog.bitmex.com/mining-incentives-part-1-the-difficulty-adjustment-and-mining-profits/
 | Zero Sum Property in Bitcoin	| *****	| Bitcoin - General	| https://github.com/libbitcoin/libbitcoin/wiki/Zero-Sum-Property
-| Storia degli shitcoins	**	Shitcoins	A tale of shitcoins : | https://docs.google.com/document/d/1bafdMlw7KE4-j0qo0lm0is5OfZ2ptVn10ah-Bg4TB04/edit
+| Storia degli shitcoins	| *** |	Shitcoins	| https://docs.google.com/document/d/1bafdMlw7KE4-j0qo0lm0is5OfZ2ptVn10ah-Bg4TB04/edit
 | Bitcoin e filosofia	| ***	| Bitcoin - General	| http://ilporticodipinto.it/content/bitcoin-segna-linizio-della-fine-di-100-anni-di-schiavit%C3%B9
 | Transazioni Bitcoin	| N/A	| Bitcoin - Technical	| https://en.bitcoin.it/wiki/Transaction
 | UASF	| ****	| Bitcoin - General	| https://gist.github.com/chris-belcher/a8155df5051bb3e3aa96#user-activated-soft-fork-uasf
 | Hacking Verge	| *** |	Shitcoins	| https://blog.theabacus.io/the-verge-hack-explained-7942f63a3017
 | The story of Bob Surplus:	| **** |	Shitcoins	| https://bitcointalk.org/index.php?topic=896480.0
 | Physical | Bitcoin attacks:	| N/A	| Bitcoin - General	| https://github.com/jlopp/physical-bitcoin-attacks
-| Bootstraping a DAO: 	| ****	Ethereum	| https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274/
+| Bootstraping a DAO: | **** |	Ethereum	| https://bitcoinmagazine.com/articles/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274/
 | Lightning Network PwC	| N/A	| Bitcoin - General	| https://www.pwc.com/it/it/industries/fintech/bitcoin-april-2018.html
 | Mail tra Satoshi - Mike Hearn	| N/A	| Bitcoin - General	| https://pastebin.com/Na5FwkQ4
 | Mail tra Satoshi - Mike Hearn (2)	| N/A	| Bitcoin - General	| https://pastebin.com/cKZPC1rF
@@ -65,9 +65,9 @@ There is also a downloadable excel file containing the links divided the same wa
 | Dati per ricerche su bitcoin	| ------------	| -------------	| https://data.bitcoinity.org/markets/volume/30d?c=e&r=day&t=b
 | Global reserch crypto	| ------------	| -------------	| https://www.jbs.cam.ac.uk/fileadmin/user_upload/research/centres/alternative-finance/downloads/2017-global-cryptocurrency-benchmarking-study.pdf
 | Ricerche su LN	| ------------	| -------------	| https://blog.lightning.engineering
-| Statistiche su LN	| N/A	Statistics	| https://bitcoinvisuals.com/lightning
+| Statistiche su LN	| N/A | Statistics	| https://bitcoinvisuals.com/lightning
 | RGB Protocol 	| N/A	| Bitcoin - Technical	| https://github.com/rgb-org/spec
-| A Geek in prison (Charlie Shrem)	| ***	General	| https://medium.com/@cshrem/a-geek-in-prison-a-life-series-by-charlie-shrem-part-1-2ea5e96de6ec
+| A Geek in prison (Charlie Shrem)	| ***	 | General	| https://medium.com/@cshrem/a-geek-in-prison-a-life-series-by-charlie-shrem-part-1-2ea5e96de6ec
 | 
 
 
